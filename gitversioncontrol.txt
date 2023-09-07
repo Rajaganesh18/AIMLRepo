@@ -1,2 +1,4 @@
 It is sample file.
 for learning GIT
+
+1st adding changes
