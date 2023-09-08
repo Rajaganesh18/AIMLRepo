@@ -6,3 +6,6 @@ for learning GIT
 
 Token Created 
 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
+
+
+Use the git commmmand to pull this content in the local repository.
